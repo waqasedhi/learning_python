@@ -1,4 +1,4 @@
-# Python Programming Quiz**
+# Python Programming Quiz
 
 ## Chapter 01
 
