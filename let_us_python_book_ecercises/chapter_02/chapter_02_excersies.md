@@ -45,15 +45,15 @@
 
 | Tool/Library | Description|
 |---|:---|
-| pip| Package installation tool|
-| Jupyter| Visualization|
-| Spyder| Scientific library|
-| PyPI| Python package index|
-| NumPy| Advanced mathematical operations|
-| SciPy| Scientific computing|
-| Pandas| Manipulate numerical tables|
-| Matplotlib| Visualization|
-| OpenCV    | Computer vision|
+| pip| 6. Package installation tool
+| Jupyter| 7. Build and document applications
+| Spyder| 8. Scientific library|
+| PyPI| 9. Python package index
+| NumPy| 1. Advanced mathematical operations|
+| SciPy| 2. Scientific computing|
+| Pandas| 3. Manipulate numerical tables|
+| Matplotlib| 4. Visualization|
+| OpenCV    | 5. Computer vision|
 
 **## Section C: State whether the following statements are True or False**
 
@@ -67,10 +67,10 @@ True
 True
 
 **(d) Most Linux distributions already contain Python.**
-True
+False
 
 **(e) Windows systems don't contain Python, and it needs to be separately installed.**
-False
+True
 
 **(f) Python programs can be built using IDLE, NetBeans, PyCharm, and Visual Studio Code.**
 True
